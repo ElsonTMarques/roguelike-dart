@@ -6,6 +6,12 @@ Este projeto faz parte das minhas aulas de programação mobile com Flutter, por
   <img src="https://github.com/kleberandrade/roguelike-dart/blob/master/images/roguelike.png" width="800"/>
 </p>
 
+**Integrantes do grupo**
+Elson Tavares Marques
+Eliara Costa
+Matheus Camilo
+Matheus Jair
+
 ## Como testar?
 
 Instale o [Dart SDK](http://www.gekorm.com/dart-windows/) e o [Visual Studio Code](https://code.visualstudio.com/download) no seu computador e execute os seguintes comandos no terminal
