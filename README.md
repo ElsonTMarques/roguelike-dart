@@ -1,16 +1,10 @@
 # Roguelike
 
-Este projeto faz parte das minhas aulas de programação mobile com Flutter, porém todo o código está escrito em Dart.
-
-<p align="center">
-  <img src="https://github.com/kleberandrade/roguelike-dart/blob/master/images/roguelike.png" width="800"/>
-</p>
-
-**Integrantes do grupo**
-Elson Tavares Marques
-Eliara Costa
-Matheus Camilo
-Matheus Jair
+**Integrantes do grupo**  
+Elson Tavares Marques  
+Eliara Costa  
+Matheus Camilo  
+Matheus Jair  
 
 ## Como testar?
 
